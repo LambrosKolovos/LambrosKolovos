@@ -1,6 +1,6 @@
 ### Hello there it's me! 👋
 
-Currently I am computer Science student at Aristotle University of Thessaloniki(AUTH) in Greece.
+Currently I am computer science student at Aristotle University of Thessaloniki(AUTH) in Greece.
 
 I am also working as a Front-End developer for Deloitte Greece.
 
@@ -19,16 +19,16 @@ I am also working as a Front-End developer for Deloitte Greece.
 
 ## <img height="20" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/programming-3051035-2554760.png" />  My top projects
 
-My biggest project is [ColorParty](https://top.gg/bot/814349737909682227) an addictive a fun & addictive discord mini game. You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=814349737909682227&permissions=24640&scope=bot)
+My biggest project is [ColorParty](https://top.gg/bot/814349737909682227) a fun & addictive discord mini game. You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=814349737909682227&permissions=24640&scope=bot)
 * Invited by **415** servers
 * Currently being played by **1000** users
 
 These are some of my personal projects developed in my free time, as well as some university porjects.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=ServeIt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=FlutterApp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=Weatherly&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=Sokobot-Discord&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=ServeIt&theme=tokyonight)](https://github.com/LambrosKolovos/ServeIt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=FlutterApp&theme=tokyonight)](https://github.com/LambrosKolovos/FlutterApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=Weatherly&theme=tokyonight)](https://github.com/LambrosKolovos/FlutterApp/Weatherly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambroskolovos&repo=Sokobot-Discord&theme=tokyonight)](https://github.com/LambrosKolovos/Sokobot-Discord)
 
 
 ## 📈 My Github stats
