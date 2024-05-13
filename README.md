@@ -2,11 +2,10 @@
 
 Currently I am computer science student at Aristotle University of Thessaloniki(AUTH) in Greece.
 
-I am also working as a Front-End developer for Deloitte Greece.
+I am also working as a Fullstack engineer for Kivos.ai
 
 ## 📖 I'm currently learning & working with
 
-* <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/java-3628857-3029997.png"> Java
 * <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/logo-1889531-1597591.png"> React.js
 * <img height="30" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/api-2277755-1897442.png"> Rest APIs
 * <img height="30" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/sql-3919253-3246524.png"> SQL Databases
